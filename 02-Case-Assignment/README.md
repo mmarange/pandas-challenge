@@ -6,19 +6,15 @@ In this case purchase data from fantasy game Heroes of Pymoli will be analysed f
 
 ### Player Count
 
-* Total Number of Players
 ![Total Number of Players](https://github.com/mmarange/pandas_challenge/blob/main/02-Case-Assignment/Images/Total%20players.PNG)
 
 ### Purchasing Analysis (Total)
 
-![Purchasing Analysis (Total)](https://github.com/mmarange/pandas_challenge/blob/main/02-Case-Assignment/Images/purchasee%20analysis%20age.PNG)
-
-
-
+![Purchasing Analysis (Total)](https://github.com/mmarange/pandas_challenge/blob/main/02-Case-Assignment/Images/Purchase%20analysis.PNG)
 
 ### Gender Demographics
 
-![Gender Demographics](http://localhost:8888/view/code/Homework%20and%20Projects/03%20pandas-challenge/02-Case-Assignment/Images/purchasee%20analysis%20age.PNG)
+![Gender Demographics](https://github.com/mmarange/pandas_challenge/blob/main/02-Case-Assignment/Images/gender%20counts.PNG)
 
 ### Purchasing Analysis (Gender)
 
@@ -31,6 +27,7 @@ In this case purchase data from fantasy game Heroes of Pymoli will be analysed f
 ### Top Spenders
 
 ![top spenders](http://localhost:8888/view/code/Homework%20and%20Projects/03%20pandas-challenge/02-Case-Assignment/Images/top%20purchasers.PNG)
+
 ### Most Popular Items
 
 ![most popular](http://localhost:8888/view/code/Homework%20and%20Projects/03%20pandas-challenge/02-Case-Assignment/Images/profittable.PNG)
