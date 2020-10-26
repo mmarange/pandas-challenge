@@ -1,5 +1,5 @@
 ### Python Mini-Project: Data Clean-Up
 
-Data is inherently dirty. It often contains more information than is needed, columns are often mislabeled, and values are often missing or in the wrong format. This project will require you to use most of what you have learned to fix just such a problem in a real-world data set.
-
-See the assignment details in the Mini-Project-Part-1 and the Mini-Project-Part-2 subfolders.
+This mini project is split in 2 parts, contained in folders
+* [Part 1](https://github.com/mmarange/pandas_challenge/tree/main/03-Pandas-Project/Mini-Project-Part-1)
+* [Part 2](https://github.com/mmarange/pandas_challenge/tree/main/03-Pandas-Project/Mini-Project-Part-2)
